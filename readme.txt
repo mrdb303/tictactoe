@@ -3,7 +3,7 @@ howtocodewell.net Coding challenge for September 2020
 
 This is the first part of my entry for a coding challenge on howtocodewell.net.
 
-Although the first part is purely HTML and CSS, the game logic is currently working in JavaScript as a two player game. Although further elements will be added and the code is in need of a refactor.
+Although the first part is purely HTML and CSS, the game logic is currently working in JavaScript as a two player game. Further elements will be added and the code is in need of a refactor.
 
 
 Challenge is detailed below:
